@@ -1,0 +1,6 @@
+﻿  خالد رشيد البلوي_ LAB1_Exercise2.cpp
+C:\Users\pCd\Desktop\c++\Project1\Project1\Debug\Project1.tlog\خالد رشيد البلوي_ LAB1_Exercise2.cpp(20,32): error C2678: binary '^': no operator found which takes a left-hand operand of type 'std::basic_ostream<char,std::char_traits<char>>' (or there is no acceptable conversion)
+C:\Users\pCd\Desktop\c++\Project1\Project1\Debug\Project1.tlog\خالد رشيد البلوي_ LAB1_Exercise2.cpp(20,32): message : could be 'built-in C++ operator^(int, int)'
+C:\Users\pCd\Desktop\c++\Project1\Project1\Debug\Project1.tlog\خالد رشيد البلوي_ LAB1_Exercise2.cpp(20,32): message : while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, int)'
+  خالد رشيد البلوي _ LAB1_Exercise1.cpp
+  Generating Code...
